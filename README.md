@@ -6,7 +6,9 @@
 
 [Comment mettre la fibre puissante dans la box pour avoir un débit de connexion supérieur à l'ADSL.](https://www.youtube.com/watch?v=7wJ-A4VUuLs)
 
-[Comment améliorer le débit de votre box.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Comment tester votre connexion internet(seulement réservé à l'élite).](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+[Fichiers de Free.](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 
