@@ -4,7 +4,9 @@
 
 [Comment redémarer votre freebox.](https://www.youtube.com/watch?v=5KHLI13Trsw)
 
-<img src="https://www.free.fr/freebox/" alt="Free" data-canonical-src="https://www.free.fr/freebox/" width="300" height="250" style="max-width: 100%;">
+
+[Comment mettre la fibre puissante dans la box pour avoir un débit de connexion supérieur à l'ADSL.](https://www.youtube.com/watch?v=7wJ-A4VUuLs)
+
 
 
 
